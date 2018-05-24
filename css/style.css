@@ -6,7 +6,7 @@
   font-style: normal;
 }
 html {
-  background: #fff;
+ background: #fff;
 }
 
 body {
@@ -16,6 +16,7 @@ body {
   line-height: 1.8;
   color: #222;
   background: #fff;
+ /* background: linear-gradient(to right, #1a1a1a 0%,#000000 50%);*/
 }
 body.fh5co-overflow {
   overflow-x: auto;
