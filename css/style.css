@@ -37,8 +37,9 @@ body.fh5co-overflow {
   background: #f7c873;
 }
 
+/*Organization Tags*/
 a {
-  color: #f7c873;
+  color: #107896;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -46,7 +47,7 @@ a {
 a:hover, a:focus, a:active {
   color: #f3ac2b;
   outline: none;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -538,6 +539,8 @@ figure figcaption {
     width: 270px;
   }
 }
+
+/*X-Button*/
 #fh5co-offcanvas .fh5co-close-offcanvas {
   position: absolute;
   top: 20px;
@@ -545,7 +548,7 @@ figure figcaption {
   font-size: 30px;
   width: 30px;
   overflow: hidden;
-  color: #cccccc;
+  color: #000;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -609,11 +612,12 @@ figure figcaption {
 #fh5co-offcanvas .fh5co-bio p {
   font-size: 16px;
 }
+/*Side Panel Colors*/
 #fh5co-offcanvas .heading {
   font-size: 16px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #cccccc;
+  color: #107896;
   margin-bottom: 30px;
 }
 #fh5co-offcanvas .fh5co-menu {
@@ -650,8 +654,9 @@ figure figcaption {
   cursor: pointer;
   text-decoration: none;
 }
+/*Navigation Animation Colors*/
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-  background: #f7c873;
+  background: #107896;
 }
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
@@ -665,11 +670,11 @@ figure figcaption {
   *display: inline;
   width: 25px;
   height: 3px;
-  color: #535659;
+  color: #107896;
   font: bold 14px/.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
-  background: #535659;
+  background: #107896;
   transition: all .2s ease-out;
 }
 .fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
