@@ -19,7 +19,7 @@
   <h3 align="center">Blog Template</h3>
 
   <p align="center">
-    A personal blog template built by Weston Mauz
+    A web template for deploying articles & pictures
   </p>
 </p>
 
@@ -99,6 +99,18 @@ Source Control
 * [GitHub](https://github.com)
 * [iTerm2](https://iterm2.com)
 
+Template References
+* [Bootstrap](http://getbootstrap.com/)
+* [jQuery](http://jquery.com/)
+* [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
+* [Modernizr](http://modernizr.com/)
+* [Google Fonts](https://www.google.com/fonts/)
+* [Icomoon](https://icomoon.io/app/)
+* [Respond JS](https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT)
+* [animate.css](http://daneden.me/animate)
+* [jQueryWaypoint](https://github.com/imakewebthings/waypoints/blog/master/licenses.txtT)
+* [Demo Images](http://unsplash.com)
+
 
 
 
@@ -106,7 +118,7 @@ Source Control
 <!-- MARKDOWN LINKS & IMAGES -->
 [status-shield]: https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwmauz677.github.io%2FBlog%2Findex.html
 [status-link]: https://wmauz677.github.io/Blog/index.html
-[license-shield]: https://img.shields.io/github/license/wmauz677/mycaddie-web?color=red&style=for-the-badge
-[license-url]: https://github.com/wmauz677/MyCaddie-Web/blob/gh-pages/LICENSE
+[license-shield]: https://img.shields.io/github/license/wmauz677/blog?color=red&style=for-the-badge
+[license-url]: https://github.com/wmauz677/Blog/blob/gh-pages/LICENSE
 [product-screenshot]: images/main-screenshot.png
 [mauz-screenshot]: images/mauz-screenshot.png
